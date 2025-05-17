@@ -1,0 +1,119 @@
+[
+  {
+    "rodada": 1,
+    "jogos": [
+      {
+        "mandante": "Flamengo",
+        "visitante": "Vasco",
+        "golsMandante": 2,
+        "golsVisitante": 3,
+        "data": "2025-05-10T16:00:00",
+        "local": "Maracanã"
+      },
+      {
+        "mandante": "Botafogo",
+        "visitante": "Fluminense",
+        "golsMandante": 0,
+        "golsVisitante": 0,
+        "data": "2025-05-10T18:00:00",
+        "local": "Nilton Santos"
+      },
+      {
+        "mandante": "América",
+        "visitante": "Bangu",
+        "golsMandante": 2,
+        "golsVisitante": 0,
+        "data": "2025-05-10T18:00:00",
+        "local": "Nilton Santos"
+      }
+    ]
+  },
+  {
+    "rodada": 2,
+    "jogos": [
+      {
+        "mandante": "Fluminense",
+        "visitante": "América",
+        "golsMandante": 3,
+        "golsVisitante": 1,
+        "data": "2025-05-17T16:00:00",
+        "local": "Maracanã"
+      },
+      {
+        "mandante": "Botafogo",
+        "visitante": "Flamengo",
+        "golsMandante": 1,
+        "golsVisitante": 2,
+        "data": "2025-05-17T18:00:00",
+        "local": "Nilton Santos"
+      },
+      {
+        "mandante": "Vasco",
+        "visitante": "Bangu",
+        "golsMandante": 5,
+        "golsVisitante": 0,
+        "data": "2025-05-17T16:00:00",
+        "local": "São Januário"
+      }
+    ]
+  },
+  {
+    "rodada": 3,
+    "jogos": [
+      {
+        "mandante": "Botafogo",
+        "visitante": "América",
+        "golsMandante": 1,
+        "golsVisitante": 0,
+        "data": "2025-05-17T16:00:00",
+        "local": "Nilton Santos"
+      },
+      {
+        "mandante": "Vasco",
+        "visitante": "Fluminense",
+        "golsMandante": 2,
+        "golsVisitante": 1,
+        "data": "2025-05-17T18:00:00",
+        "local": "São Januário"
+      },
+      {
+        "mandante": "Bangu",
+        "visitante": "Flamengo",
+        "golsMandante": 0,
+        "golsVisitante": 3,
+        "data": "2025-05-18T18:00:00",
+        "local": "Nilton Santos"
+      }
+      
+    ]
+  },
+  {
+    "rodada": 4,
+    "jogos": [
+      {
+        "mandante": "Flamengo",
+        "visitante": "Botafogo",
+        "golsMandante": 1,
+        "golsVisitante": 2,
+        "data": "2025-05-17T16:00:00",
+        "local": "Maracanã"
+      },
+      {
+        "mandante": "América",
+        "visitante": "Vasco",
+        "golsMandante": 0,
+        "golsVisitante": 0,
+        "data": "2025-05-17T18:00:00",
+        "local": "Nilton Santos"
+      },
+      {
+        "mandante": "Bangu",
+        "visitante": "Fluminense",
+        "golsMandante": 1,
+        "golsVisitante": 1,
+        "data": "2025-05-17T18:00:00",
+        "local": "São Januário"
+      }
+    ]
+  }
+]
