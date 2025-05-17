@@ -3,7 +3,10 @@ import jogosPorRodada  from "./data/jogos.json";
 import { Jogo, TimeStats } from "./utils/classificacao";
 
 export default function Page() {
-  const todosJogos: Jogo[] = (jogosPorRodada  as Rodada[]).flatMap((r) => r.jogos);
+  const todosJogos: Jogo[] = (jogosPorRodada as Rodada[])
+  .flatMap((r) => r.jogos)
+  .filter((jogo) => jogo.golsMandante !== null && jogo.golsVisitante !== null);
+
   const classificacao: TimeStats[] = calcularClassificacao(todosJogos as Jogo[]);
   
 
